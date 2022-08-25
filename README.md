@@ -5,4 +5,4 @@ Co-autors: Lorenzo Bellotti, Giovanni Tosi,  Mohamed Helmi Ben Hassine
 
 Mark obtained: 29/30
 
-Please note that the entire report is written in italian language. If you want to check the code, you can do it downloading the appropriate file.
+Please note that the entire report is written in italian language and to develope the code i use Knime Platform. If you want to check the code, you can do it downloading the appropriate knwf file.
