@@ -1,4 +1,5 @@
-# Predizione-del-prezzo-delle-auto-usate-nel-mercato-indiano-
+# Predizione del prezzo delle auto usate nel mercato indiano
+English title: Prediction of the price of used cars in the Indian market
 The aim of this project was to identify the best used model to predict the price of cars according to their characteristics. In addition, an attempt was made to identify the attributes with the greatest influence in the forecast process.
 
 Co-autors: Lorenzo Bellotti, Giovanni Tosi,  Mohamed Helmi Ben Hassine
